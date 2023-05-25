@@ -1,2 +1,3 @@
 # odin-exercises-curriculum
- My Odin repository to follow the curriculum practicing
+ My Odin repository to follow the curriculum teachings
+ 
