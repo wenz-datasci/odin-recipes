@@ -6,12 +6,12 @@
 }
 
 a {
-    pointer-events: none style;
     text-decoration: none;
     color: darkslategrey;
     border-color: black;
     padding: 1%;
-    border-style: dashed;
+    border-style:groove;
+    font-weight: 1000;
 }
 
 h1, h3, h4 {
